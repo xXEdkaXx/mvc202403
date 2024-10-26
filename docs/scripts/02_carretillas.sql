@@ -1,3 +1,5 @@
+USE ecommerce;
+
 CREATE TABLE
     `products` (
         `productId` int(11) NOT NULL AUTO_INCREMENT,
